@@ -22,18 +22,7 @@
     /*  font-family  */
     --ff-poppins: 'Poppins', sans-serif;
 
-    /* @font-face {
-        font-family: 'AvenirNext', sans-serif;
-        src: url(../font/AvenirNextLTPro-Regular.otf);
-    }
     
-    @font-face {
-        font-family: AvenirNextLTPro-Bold;
-        src: url(../font/AvenirNextLTPro-Bold.otf);
-    }
-    
-    --ff-av-r: 'AvenirNext', sans-serif;
-    --ff-av-b: 'AvenirNextLTPro-Bold', sans-serif; */
 
     /*  font-weight  */
     --fw-700: 700;
@@ -152,8 +141,7 @@ textarea {
 
 .ff-poppins { font-family: var(--ff-poppins); } 
 
-/* .letter-spacing-1 { letter-spacing: 4.75px; } 
-.letter-spacing-2 { letter-spacing: 2.7px; } */
+
 
 .uppercase { text-transform: uppercase; }
 
